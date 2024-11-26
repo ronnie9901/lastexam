@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055748981910",
+    "project_id": "lastexam-a2e63",
+    "storage_bucket": "lastexam-a2e63.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055748981910:android:011e0dbef0a1af08b2aeb7",
+        "android_client_info": {
+          "package_name": "com.example.lastexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbQQPdxTU8y2qZuPPp4rLYsnuwTXBY_zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
