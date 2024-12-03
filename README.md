@@ -89,5 +89,5 @@ https://drive.google.com/drive/folders/1qkUXTsszzaPCk5WnWyt744T_QONxGzEC
 
 
 ## 📄   Fitness Drive Link 
-https://drive.google.com/drive/folders/1qkUXTsszzaPCk5WnWyt744T_QONxGzEC
+https://drive.google.com/file/d/1ESKgfynaiuaEO-IV1oB00Nh_-T1d2q10/view?usp=sharing
     
